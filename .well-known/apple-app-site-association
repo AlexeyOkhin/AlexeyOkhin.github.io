@@ -1,1 +1,13 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XXXXXXXXXX.ru.yourapp.ios",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
