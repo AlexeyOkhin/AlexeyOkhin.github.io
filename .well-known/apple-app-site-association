@@ -1,13 +1,19 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "XXXXXXXXXX.today.smartway.SmartwayBeta",
-        "paths": [
-          "*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "HS_______.today.smartway.SmartwayBeta",
+                "paths": [
+                    "/reset-password*"
+                ]
+            },
+            {
+                "appID": "HS_______.today.smartway.PersonalOffice",
+                "paths": [
+                    "/reset-password*"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
